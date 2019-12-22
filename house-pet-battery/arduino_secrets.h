@@ -1,0 +1,2 @@
+#define SECRET_SSID "FIXME"
+#define SECRET_PASS "FIXME"
