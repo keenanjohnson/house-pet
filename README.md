@@ -1,7 +1,7 @@
 # house-pet
 A solar powered house that teaches about energy usage through a playful, multi-sensory experience.
 
-![HousePet](https://hackster.imgix.net/uploads/attachments/1047175/img_0180_KDlefoHU4t.jpeg)
+![HousePet](https://images.squarespace-cdn.com/content/v1/5dd781860c835d40302e6d76/1575196571931-XJZOXEUO54XNLNGZDNJI/ke17ZwdGBToddI8pDm48kCgyGgR_HXO3l7tCNlud2wp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URaCoCofUvjeybVlXx_j400yeq_InGAudJoxL_CQPBocvyftB5L24TgeeIbHjXVwMA/IMG_0096.jpg?format=2500w)
 
 # Problem Statement
 The National Academy of Engineering lists personalized learning as one of its "Grand Engineering Challenges." Additionally, there is a lack of effective and engaging tools to educate adults and children on energy sources and usage.
